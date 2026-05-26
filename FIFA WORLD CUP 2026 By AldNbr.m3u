@@ -1,0 +1,25 @@
+#EXTM3U
+
+###########################
+########## MATCH ##########
+###########################
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan1103/Fifa-world-cup-2026-logo/refs/heads/main/20260517_082633.png" group-title="📁MATCH",02:00(WIB) Meksiko Vs Afrika Selatan
+https://raw.githubusercontent.com/aldan1103/Fifa-world-cup-2026-logo/main/The_Official_FIFA_World_Cup_26%E2%84%A2_Theme(1080p).mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan1103/Fifa-world-cup-2026-logo/refs/heads/main/20260517_082633.png" group-title="📁MATCH",09:00(WIB) Korea Selatan Vs Ceko
+https://raw.githubusercontent.com/aldan1103/Fifa-world-cup-2026-logo/main/The_Official_FIFA_World_Cup_26%E2%84%A2_Theme(1080p).mp4
+
+###########################
+########## WORLD ##########
+###########################
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3DJf.png" group-title="🌏WORLD",🇮🇩ID-TVRI NASIONAL
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=10004-mp4a_96000_eng=20000.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JjzVLl9.png" group-title="🌏WORLD",🇮🇩ID-TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_900000=10002-mp4a_96000=20002.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JjzVLl9.png" group-title="🌏WORLD",🇦🇷AR-TV-PÙBLICA
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_900000=10002-mp4a_96000=20002.m3u8
